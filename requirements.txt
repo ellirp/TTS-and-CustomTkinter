@@ -1,0 +1,4 @@
+gtts==2.2.2
+pydub==0.26.6
+SpeechRecognition==3.8.1
+tk==0.1.0
